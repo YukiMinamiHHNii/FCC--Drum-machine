@@ -37,7 +37,7 @@ html {
 	grid-template-rows: auto;
 }
 
-#display{
+#machine-display{
 	display: flex;
 	text-align: center;
 	align-items: center;
@@ -45,7 +45,7 @@ html {
 	margin: .5rem;
 }
 
-#display>*{
+#machine-display>*{
 	width: 100%;
 	background-color: var(--color-main)
 }
